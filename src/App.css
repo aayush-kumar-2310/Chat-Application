@@ -1,0 +1,30 @@
+body {
+	background: linear-gradient(
+		90deg,
+		rgba(0, 212, 255, 1) 0%,
+		rgba(2, 32, 113, 1) 100%
+	);
+}
+
+#App {
+	text-align: center;
+	align-items: center;
+}
+
+#box {
+	margin-top: 10vmax;
+	border: 0.5em solid black;
+	border-radius: 20cap;
+}
+
+h1 {
+	margin-bottom: 5rem;
+}
+
+button {
+	display: block;
+	padding: 2rem;
+	width: 12rem;
+	margin: 0 auto;
+	margin-bottom: 2rem;
+}

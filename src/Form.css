@@ -1,0 +1,10 @@
+.form {
+	/* text-align: center; */
+	margin-top: 1rem;
+	display: block;
+}
+
+form {
+	margin: 0 auto;
+	text-align: center;
+}
